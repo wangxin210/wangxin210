@@ -35,30 +35,10 @@
 <p>&emsp;&emsp;Believe you can and you're halfway there.</p>
 
 </tr></td>
-
-
 </table>
-
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/man_run.png" width="250" height="250" />
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
 </div>
 
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wangxin210&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wangxin210&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangxin210&theme=dark&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/right.png" />
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/base.svg" />
 
@@ -75,21 +55,7 @@
 
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/hr.gif" />
-
 <div align="center" >
-
-<img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/mb.png" width="250" height="250" />
-
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/hr.gif" />
-
-<div align="center" >
-
-<img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/man.png" width="250" height="250" />
-
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -137,58 +103,11 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/github.webp">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
 </div>
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/hr.gif" />
 
 <div align="center">
 
 <img width="36%" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/githubgif.gif" />
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-</table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
