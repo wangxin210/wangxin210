@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Believe you can and you're halfway there!&center=true&size=27)](https://git.io/typing-svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/coding.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/developer.svg" height="225px" />
@@ -25,27 +23,6 @@
 
 ![](./sponsors.png)
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/guoqisun" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
-</a>
-
-<!-- <table style="margin-top: 20px;">
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://files.guoqi.dev/wxpay.png" width="250px"  alt="wxpay" style="border-radius:10px;" />
-      </td>
-      <td align="center">
-        <img src="https://files.guoqi.dev/alipay.jpg" width="250px"  alt="alipay" style="border-radius:10px;" />
-      </td>
-    </tr>
-  </tbody>
-</table> -->
-</div>
-</div>
-
-
 #  🙋 Hello
 
 <table>
@@ -56,30 +33,10 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;北交大计算机硕士，准备从事开发岗位。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<!-- <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p> -->
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;27届北交大计算机硕士，主要研究方向为大模型推荐，正在准备开发岗位实习ing。</p>
+<p>&emsp;&emsp;Believe you can and you're halfway there.</p>
 
 </tr></td>
-
-<!-- <tr><td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=wangxin210&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=wangxin210&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wangxin210&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr> -->
 
 
 </table>
@@ -130,16 +87,6 @@
 
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
-<!-- <div><img src="https://github-profile-trophy.vercel.app/?username=wangxin210&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
-
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
-
-</div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/hr.gif" />
 
