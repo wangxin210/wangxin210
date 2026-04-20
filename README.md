@@ -21,8 +21,6 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-![](./sponsors.png)
-
 #  🙋 Hello
 
 <table>
@@ -41,8 +39,6 @@
 
 </table>
 
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/hr.gif" />
 
 <div align="center">
 
