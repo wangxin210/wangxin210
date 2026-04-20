@@ -21,20 +21,15 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-#  🙋 Hello
+# Hi！(●'◡'●)
 
 <table>
+### About Me
 
-<tr><td>
-
-### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/assets/images/jobs.png" />
-
-<p>&emsp;&emsp;27届北交大计算机硕士，主要研究方向为大模型推荐，正在准备开发岗位实习ing。</p>
+<p>&emsp;&emsp;27届北交大计算机硕士，主要研究方向为大模型推荐。</p>
+<p>&emsp;&emsp;正在准备开发岗位实习ing......</p>
 <p>&emsp;&emsp;Believe you can and you're halfway there.</p>
 
-</tr></td>
 </table>
 </div>
 
