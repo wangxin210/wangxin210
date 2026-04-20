@@ -39,9 +39,6 @@
 </div>
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/wangxin210/wangxin210/github-metrics/base.svg" />
-
 <table>
   <tr>
     <td>
