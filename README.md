@@ -26,7 +26,7 @@
 <table>
 About Me
 <p>&emsp;&emsp;27届北交大计算机硕士，主要研究方向为大模型推荐。</p>
-<p>&emsp;&emsp;正在准备开发岗位实习ing......</p>
+<p>&emsp;&emsp;准备暑期实习ing......</p>
 <p>&emsp;&emsp;Believe you can and you're halfway there.</p>
 
 </table>
